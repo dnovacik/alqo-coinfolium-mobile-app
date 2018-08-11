@@ -1,0 +1,1 @@
+export const cmcApiBase = 'https://pro-api.coinmarketcap.com';
